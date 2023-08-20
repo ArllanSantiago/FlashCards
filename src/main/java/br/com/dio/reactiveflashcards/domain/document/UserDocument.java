@@ -1,4 +1,4 @@
-package br.com.dio.reactiveflashcards.document;
+package br.com.dio.reactiveflashcards.domain.document;
 
 import lombok.Builder;
 import org.springframework.data.annotation.CreatedDate;
